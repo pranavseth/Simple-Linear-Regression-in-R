@@ -2,7 +2,7 @@
 Simple Linear Regression Model on Employee Salary Dataset
 
 Training Set Results
-![Results](Training-Set-results.png)
+![Results](Training Set results.png)
 
 Test Set Results
-![Results](Test-Set-results.png)
+![Results](Test Set results.png)
